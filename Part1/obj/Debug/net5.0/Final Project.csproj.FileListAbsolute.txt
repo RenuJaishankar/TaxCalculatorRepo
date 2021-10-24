@@ -1,0 +1,19 @@
+C:\Users\renuj\source\repos\ADN102.Starter.10.FinalProject\Part1\obj\Debug\net5.0\Final Project.csproj.AssemblyReference.cache
+C:\Users\renuj\source\repos\ADN102.Starter.10.FinalProject\Part1\obj\Debug\net5.0\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renuj\source\repos\ADN102.Starter.10.FinalProject\Part1\obj\Debug\net5.0\Final Project.AssemblyInfoInputs.cache
+C:\Users\renuj\source\repos\ADN102.Starter.10.FinalProject\Part1\obj\Debug\net5.0\Final Project.AssemblyInfo.cs
+C:\Users\renuj\source\repos\ADN102.Starter.10.FinalProject\Part1\obj\Debug\net5.0\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\renuj\source\repos\ADN102.Starter.10.FinalProject\Part1\bin\Debug\net5.0\employees.csv
+C:\Users\renuj\source\repos\ADN102.Starter.10.FinalProject\Part1\bin\Debug\net5.0\taxtable.csv
+C:\Users\renuj\source\repos\ADN102.Starter.10.FinalProject\Part1\bin\Debug\net5.0\verbose.txt
+C:\Users\renuj\source\repos\ADN102.Starter.10.FinalProject\Part1\bin\Debug\net5.0\Final Project.exe
+C:\Users\renuj\source\repos\ADN102.Starter.10.FinalProject\Part1\bin\Debug\net5.0\Final Project.deps.json
+C:\Users\renuj\source\repos\ADN102.Starter.10.FinalProject\Part1\bin\Debug\net5.0\Final Project.runtimeconfig.json
+C:\Users\renuj\source\repos\ADN102.Starter.10.FinalProject\Part1\bin\Debug\net5.0\Final Project.runtimeconfig.dev.json
+C:\Users\renuj\source\repos\ADN102.Starter.10.FinalProject\Part1\bin\Debug\net5.0\Final Project.dll
+C:\Users\renuj\source\repos\ADN102.Starter.10.FinalProject\Part1\bin\Debug\net5.0\ref\Final Project.dll
+C:\Users\renuj\source\repos\ADN102.Starter.10.FinalProject\Part1\bin\Debug\net5.0\Final Project.pdb
+C:\Users\renuj\source\repos\ADN102.Starter.10.FinalProject\Part1\obj\Debug\net5.0\Final Project.dll
+C:\Users\renuj\source\repos\ADN102.Starter.10.FinalProject\Part1\obj\Debug\net5.0\ref\Final Project.dll
+C:\Users\renuj\source\repos\ADN102.Starter.10.FinalProject\Part1\obj\Debug\net5.0\Final Project.pdb
+C:\Users\renuj\source\repos\ADN102.Starter.10.FinalProject\Part1\obj\Debug\net5.0\Final Project.genruntimeconfig.cache
